@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: git@github.com:WesleyWW/11tylify.git
+  repo: WesleyWW/11tylify
   branch: master # Branch to update (optional; defaults to master)
 
 publish_mode: editorial_workflow
